@@ -137,13 +137,9 @@ The git add command is used to stage files in the project. In staging the files 
 
 ---
 
-### Git commit -m "description"
 
- 
-**Description:**  
-The git init command was is used to commit changes to files that are in the staging phase. This command was used a number of times, depending on the changes I wanted to commit.
 
----
+
 
 ### Git switch -c header
 
@@ -161,13 +157,7 @@ The git command is used to switch branches, and also restore a previous version 
 
 ---
 
-### git switch -c main-headin
 
- 
-**Description:**  
-The git command was used to create and switch to a branch called main-heading.
-
----
 
 ### Git swicth -c article
 
@@ -177,11 +167,11 @@ The git command was used to create and switch to a branch named article.
 
 ---
 
-## Git swicth -c down-elements
+## Git swicth -c top_body
 
  
 **Description:**  
-The git command was used to create and switch to a branch named down-elements.
+The git command was used to create and switch to a branch named top_body.
 
 ---
 
@@ -193,54 +183,30 @@ The git command was used merge the hearder branch to main.
 
 ---
 
-## git merge main-heading
+## git merge top-body
 
  
 **Description:**  
-The git command was used merge the main-heading branch to main.
+The git command was used merge the top_body branch to main.
 
 ---
 
-## git merge down-elements
+## git merge down-body
 
  
 **Description:**  
-The git command was used merge the down-elements branch to main.
+The git command was used merge the down body elements branch to main.
 
 ---
 
-### PRs
+## git log
 
-### 🧱 PR #1 - Implemented the down-elements section.
-
-**Branch:** `down-elements`  
+ 
 **Description:**  
-Used Flexbox and media queries to build for desktop, tablet, and mobile devices for the down-element section.
-
-**Related Issue:** #2  
-**Status:** ✅ Merged
-
-
-
-### 🧱 PR #2 - Implemented the hearder section.
-
-**Branch:** `header`  
-**Description:**  
-Built a responsive layout using Flexbox and media queries to support desktop, tablet, and mobile breakpoints for the header section.
-
-**Related Issue:** #2  
-**Status:** ✅ Merged
+The git command was used to show logs of changes effected in the repo.
 
 ---
 
-### 🧱 PR #3 - Implemented the main-heading section.
-
-**Branch:** `main-heading`  
-**Description:**  
-Built a responsive  main-heading section layout using Flexbox and media queries to support desktop, tablet, and mobile devices. 
-
-**Related Issue:** #3  
-**Status:** ✅ Merged
 
 
 ### Continued development
@@ -258,7 +224,7 @@ Built a responsive  main-heading section layout using Flexbox and media queries 
 
 ## Author
 
-- Website - [Faisal Halid Dene](https://www.your-site.com)
+- Website - [Faisal Halid Dene](https://github.com/Proc3ssa)
 
 - Twitter - [P R O C E S S O R](https://www.x.com/processor_911)
 
