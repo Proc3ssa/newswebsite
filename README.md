@@ -30,19 +30,6 @@ Users should be able to:
 ![](./assets/images/desktop.jpg)
 
 
--A cropped view of the mobile mode. The image is long.
-
-![](./assets/images/Mobile.jpg)
-
--A view of the mobile menu.
-![](./assets/images/mobile-menu.png)
-
-
-
-
-
-
-
 ### Links
 
 - Solution URL: [Github](https:github.com/proc3ssa/lab2-GTP)
