@@ -26,7 +26,7 @@ Users should be able to:
 - See hover and focus states for all interactive elements on the page
 
 ### Screenshots
--A full view of the desktop mode.
+- A full view of the desktop mode.
 ![](./assets/images/desktop.jpg)
 
 
@@ -191,6 +191,21 @@ The git command was used merge the down body elements branch to main.
  
 **Description:**  
 The git command was used to show logs of changes effected in the repo.
+
+---
+## git push
+
+ 
+**Description:**  
+The git command use to effect local changes to remote repo.
+
+---
+
+## git commit -m ""
+
+ 
+**Description:**  
+The git command use to apply changes to staged files.
 
 ---
 
