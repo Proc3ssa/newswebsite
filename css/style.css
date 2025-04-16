@@ -386,10 +386,9 @@ body {
 
     article{
       min-width: 100%;
-      margin-left: 10px;
       height: fit-content;
-      /* display: block; */
       margin-top: 50px !important;
+      margin-inline: 20px;  
     }
   }
 
